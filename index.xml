@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yijie Yang</title>
+    <link>https://zak-yyj.github.io/</link>
+    <description>Recent content on Yijie Yang</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en</language>
+    <atom:link href="https://zak-yyj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://zak-yyj.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zak-yyj.github.io/about/</guid>
+      <description>&lt;p&gt;I am currently pursuing an MSc in Geospatial &amp;amp; Mapping Sciences, with a strong&lt;/p&gt;
+&lt;p&gt;research interest in **GeoAI and the integration of artificial intelligence&lt;/p&gt;
+&lt;p&gt;with geospatial data analysis**.&lt;/p&gt;
+&lt;p&gt;My academic focus lies in applying machine learning and data-driven approaches&lt;/p&gt;
+&lt;p&gt;to remote sensing and mapping problems, particularly for high-latitude and&lt;/p&gt;
+&lt;p&gt;polar regions. I am interested in how GeoAI methods can be used to improve&lt;/p&gt;
+&lt;p&gt;the accuracy, efficiency, and scalability of geospatial analysis, including&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://zak-yyj.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zak-yyj.github.io/contact/</guid>
+      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:3153690Y@student.gla.ac.uk&#34;&gt;3153690Y@student.gla.ac.uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/zak-yyj&#34;&gt;https://github.com/zak-yyj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am open to academic collaboration and PhD opportunities in cartography,&lt;/p&gt;
+&lt;p&gt;remote sensing, and geospatial science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://zak-yyj.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zak-yyj.github.io/cv/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;MSc in Geospatial and Mapping Sciences&lt;/strong&gt;&lt;br&gt;
+University of Glasgow, UK&lt;br&gt;
+2025 – 2026&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on cartographic theory, map projection, and spatial accuracy assessment&lt;/li&gt;
+&lt;li&gt;Master’s dissertation centred on quantitative evaluation of mapping accuracy using remote sensing data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;BSc in Geographic Information Science&lt;/strong&gt;&lt;br&gt;
+Nanjing Xiaozhuang University, China&lt;br&gt;
+2020 – 2024&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cartographic design and map projection theory&lt;/li&gt;
+&lt;li&gt;Spatial distortion analysis and error propagation in mapping&lt;/li&gt;
+&lt;li&gt;GeoAI Foundation Models&lt;/li&gt;
+&lt;li&gt;Mapping and geospatial analysis in high-latitude and polar regions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mapping Accuracy Comparison Using Multi-source Remote Sensing Data&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Master’s Dissertation&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://zak-yyj.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zak-yyj.github.io/projects/</guid>
+      <description>&lt;p&gt;### Greenland Glacier Surface Temperature Retrieval&lt;/p&gt;
+&lt;p&gt;- Bachelor’s thesis project based on satellite remote sensing&lt;/p&gt;
+&lt;p&gt;- Focused on surface temperature inversion over Greenland glaciers&lt;/p&gt;
+&lt;p&gt;- Analysed spatial and temporal variability in high-latitude environments&lt;/p&gt;
+&lt;p&gt;- Discussed uncertainty sources related to sensor characteristics and atmospheric effects&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
