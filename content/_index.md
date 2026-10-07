@@ -4,17 +4,17 @@ title: "Yijie Yang"
 
 ---
 
+## MSc in Geospatial and Mapping Sciences
 
+**GeoAI · Remote Sensing · Cartography**
 
-\## MSc in Surveying and Mapping  
+I am interested in GeoAI, remote sensing, cartography,
+and data-driven geospatial analysis.
 
-\*\*Cartography \& Remote Sensing\*\*
-
-
-
-I am a master's student focusing on cartographic design,
-
-map projection, and spatial accuracy analysis.
+My research interests focus on applying machine learning
+and multi-source geospatial data to environmental and
+spatial analysis, with applications including high-latitude
+and polar regions.
 
 
 
