@@ -83,7 +83,8 @@ GitHub: https://github.com/zak-yyj
 
 ---
 
-[Download PDF CV](/files/PhD_Academic_CV_Yijie_Yang.pdf)---
+[Download PDF CV](/files/PhD_Academic_CV_Yijie_Yang.pdf)
+[Download MSc HEAR](/files/MSc_HEAR_Yijie_Yang.pdf)---
 title: "Curriculum Vitae"
 ---
 
